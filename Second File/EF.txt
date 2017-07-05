@@ -1,0 +1,8 @@
+1.EF
+2.T4
+3.LazyLoading & Eager Loaing..syntex
+4.POCO
+======
+SingleTon Design Pattern
+Index,Cluster,NonCluster
+Cursor
